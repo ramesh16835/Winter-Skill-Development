@@ -50,6 +50,6 @@ int main (){
     printf("something went wrong!");
 
    }
-   return 0 ;  // this is the final succes s run code 
+   return 0 ;  // this is the final success run code 
 
 }
