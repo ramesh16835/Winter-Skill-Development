@@ -6,9 +6,9 @@ This project is developed as part of the Winter Skill Development Program, which
 
 🎯 Objectives
 
--To gain hands-on experience with practical implementation
+md-To gain hands-on experience with practical implementation
 
--To improve logical thinking and programming skills
+md-To improve logical thinking and programming skills
 
 -To understand real-world applications of concepts learned
 
