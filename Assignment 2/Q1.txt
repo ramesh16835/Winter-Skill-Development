@@ -1,0 +1,61 @@
+a. 
+Output:-1246811
+
+b. 
+Output:- Dream about a nightmare
+
+
+c.
+choose:
+1
+'a'
+output:If you love something...
+      Else it was never meant to be.
+
+ choose:
+1
+'b'
+output: Set it free...
+      Else it was never meant to be.
+
+choose:
+2
+output: If it returns, it's your....
+      Else it was never meant to be.
+
+
+d.
+Output :-
+a = 32  b = 21
+
+e.
+Output:-
+Result = 36 
+i = 5
+
+f.
+Output:-
+x = 3 y = 8
+
+g. 
+Output:- 
+k = 26
+
+h. 
+Output:- 
+Result = 15
+
+i. 
+Output:-
+i:- 0 1  2 3 4 
+a:- garbage values
+b:- 0 0 0 0 0 
+
+j. 
+Output:-
+14 11 8 5 2 
+
+k.
+Output:-
+repeat j
+14 11 8 5 2
